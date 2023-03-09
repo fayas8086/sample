@@ -1,0 +1,11 @@
+.nav{
+    background-color: blue;
+    border-radius: 12px;
+    height:850px;
+    text-align: center;
+    color:white;
+    padding: 20px;
+    position: fixed;
+    margin-left: 25px;
+
+}
